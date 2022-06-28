@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project elsewhere, hence the lack of activity
+- 🔭 I’m currently working on a personal productivity project
 - 🌱 I’m currently learning mern stack
 - 👯 I’m looking to collaborate on projects truly useful to humanity
 - 🤔 I’m looking for help with everything code, databases and best practices
