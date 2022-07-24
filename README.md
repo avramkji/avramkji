@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a personal productivity project
-- 🌱 I’m currently learning mern stack
-- 👯 I’m looking to collaborate on projects truly useful to humanity
-- 🤔 I’m looking for help with everything code, databases and best practices
+- 👯 I’m open to collaborate on projects useful to humanity
+- 🤔 I’m interested in learning code, databases, and best practices
 - 💬 Ask me about life, the universe, and everything.
 - 📫 How to reach me: avramkjiprovski.com
-- ⚡ Fun fact: I used to be a decent competetive swimmer
+- :coffee: Support me at buymeacoffee.com/avramkjiprovski
+- ⚡ Fun fact: I used to be a decent competetive swimmer, now I am only a swimmer :sweat_smile:
