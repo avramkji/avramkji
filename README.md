@@ -1,4 +1,4 @@
-# 👋 I'm Avram
+# 🖖 I'm Avram
 📍 Skopje, North macedonia  
 :computer: Mostly working with Javascript/Typescript  
 
