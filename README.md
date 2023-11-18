@@ -4,7 +4,7 @@
 
 ## I've used:
 - Figma
-- Wordpress, Shopify, Wix
+- Wordpress, Shopify
 - TypeScript, Java  
 - React, React Native  
 - Redux, MobX  
