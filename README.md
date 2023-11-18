@@ -1,6 +1,6 @@
 # 👋 I'm Avram
-📍 Skopje, North macedonia
-:computer: Mostly working with Javascript/Typescript
+📍 Skopje, North macedonia  
+:computer: Mostly working with Javascript/Typescript  
 
 ## I've used:
 - TypeScript, Java
