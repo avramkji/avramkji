@@ -3,14 +3,13 @@
 :computer: Mostly working with Javascript/Typescript  
 
 ## I've used:
-- Figma
-- Wordpress, Shopify
-- TypeScript, Java  
-- React, React Native  
+- Figma  
+- Wordpress, Shopify  
+- React, React Native (TypeScript, Java)  
 - Redux, MobX  
-- Node, Nest, Adonis  
+- Node, Nest, Adonis (TypeScript)  
 - MySql, MongoDB  
-- Heroku, Vercel, Netlify, EC2 IIS
+- Heroku, Vercel, Netlify, EC2 IIS  
   
 ... and other revolving technologies that are too many and too small to mention, like UI libraries, API platforms, preprocessors, ORM/ODM, linter/prettier etc.  
 
