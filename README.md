@@ -9,6 +9,6 @@
 - Node, Nest, Adonis
 - Wordpress, Shopify, Wix
 - MySql, MongoDB
-... and other revolving technologies that are too many and too small to mention, like UI libraries, API platforms, preprocessors, ORM/ODM, linter/prettier etc.
+... and other revolving technologies that are too many and too small to mention, like UI libraries, API platforms, preprocessors, ORM/ODM, linter/prettier etc.  
 
 I'd love to work on projects that have a positive impact on its user base
