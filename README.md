@@ -9,7 +9,7 @@
 - Redux, MobX  
 - Node, Nest, Adonis (TypeScript)  
 - MySql, MongoDB  
-- Heroku, Vercel, Netlify, EC2 IIS  
+- Heroku, Vercel, Netlify, EC2 + IIS
   
 ... and other revolving tech like UI libraries, API platforms, preprocessors, ORM/ODM, linter/prettier etc.  
 
