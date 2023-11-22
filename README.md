@@ -13,4 +13,4 @@
   
 ... and other revolving tech like UI libraries, API platforms, preprocessors, ORM/ODM, linter/prettier etc.  
 
-I'd love to work on projects that have a positive impact on its user base
+I'd love to work on projects that have a positive impact on their user base
