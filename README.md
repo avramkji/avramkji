@@ -1,4 +1,3 @@
-# 🖖 I'm Avram
 📍 Skopje, North macedonia
   
   
