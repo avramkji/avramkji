@@ -1,6 +1,5 @@
 # 🖖 I'm Avram
-📍 Skopje, North macedonia  
-:computer: Mostly working with Javascript/Typescript  
+📍 Skopje, North macedonia
   
   
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
